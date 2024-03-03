@@ -1,1 +1,1 @@
-# Heart-Disease-Predictor
+# Heart Disease And Diabetics Predicton
